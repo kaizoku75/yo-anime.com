@@ -1,0 +1,104 @@
+﻿[Script Info]
+Title: العربية
+Original Script: cr_ar  [http://www.crunchyroll.com/user/cr_ar]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Adobe Arabic,24,&H00FFFFFF,&H000000FF,&H00000000,&H8C000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Top,Adobe Arabic,24,&H00FFFFFF,&H000000FF,&H00000000,&H8C000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Italics,Adobe Arabic,24,&H00FFFFFF,&H000000FF,&H00000000,&H8C000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:12.20,Main,,0,0,0,,للمزيد من الأنمي المترجم زورو موقعنا\Nwww.Yo-anime.com
+Dialogue: 0,0:00:03.85,0:00:07.48,Top,Title sign,0000,0000,0000,,{\fad(320,640)\bord10\shad0\fs38\t(\fs41)\b1\blur0.35\c&H5D1172&\3c&H000000&\move(298.667,6.667,296.667,-6)}هذا عنق\Nزجاجة فحسب
+Dialogue: 0,0:00:03.85,0:00:07.48,Top,Title sign,0000,0000,0000,,{\fad(320,640)\bord4\shad0\fs38\t(\fs41)\b1\blur0.35\c&H5D1172&\3c&HF8FEF4&\move(298.667,6.667,296.667,-6)}هذا عنق\Nزجاجة فحسب
+Dialogue: 0,0:00:03.85,0:00:07.48,Top,Title sign,0000,0000,0000,,{\fad(320,640)\bord0\shad0\fs38\t(\fs41)\b1\blur0.23\c&H5D1172&\move(298.667,6.667,296.667,-6)}هذا عنق\Nزجاجة فحسب
+Dialogue: 0,0:00:07.19,0:00:09.65,Italics,Otsuka,0000,0000,0000,,تباً، سأتأخر من جديد
+Dialogue: 0,0:00:11.51,0:00:14.54,Italics,Otsuka,0000,0000,0000,,لمَ تغادر منزلها في ظلّ كلّ هذا الهراء؟
+Dialogue: 0,0:00:16.17,0:00:20.04,Italics,Otsuka,0000,0000,0000,,أعتقد أنّ منافقين أمثال هؤلاء موجودين حقاً
+Dialogue: 0,0:00:20.58,0:00:23.16,Default,Tabata,0000,0000,0000,,لذا حالما تتعلّم ذلك، ستتمكّن\N...من إعداد كرات الأرزّ
+Dialogue: 0,0:00:23.84,0:00:26.04,Default,Otsuka,0000,0000,0000,,ماذا؟ علينا أن نطبخ أيضاً؟
+Dialogue: 0,0:00:26.31,0:00:28.11,Default,Otsuka,0000,0000,0000,,هل يمكن استثنائي من ذلك؟
+Dialogue: 0,0:00:28.11,0:00:29.29,Default,Tabata,0000,0000,0000,,ربّما
+Dialogue: 0,0:00:29.67,0:00:32.75,Default,Otsuka,0000,0000,0000,,رغم ذلك، لا يأتينا زبائن كثُر إلى هنا
+Dialogue: 0,0:00:32.75,0:00:35.13,Default,Otsuka,0000,0000,0000,,أكثر ما أعاني منه هو خدمتهم، لذا هذا مُطمئن
+Dialogue: 0,0:00:35.68,0:00:36.90,Default,Otsuka,0000,0000,0000,,أفقد صوابي في كلّ مرّة
+Dialogue: 0,0:00:36.90,0:00:39.40,Default,Manager,0000,0000,0000,,أوتسكا-كن. اذهب إلى استراحتك
+Dialogue: 0,0:00:39.40,0:00:41.06,Default,Otsuka,0000,0000,0000,,بالتأكيد
+Dialogue: 0,0:00:44.47,0:00:45.48,Italics,Otsuka,0000,0000,0000,,...رائحة زكية
+Dialogue: 0,0:00:46.31,0:00:48.31,Italics,Otsuka,0000,0000,0000,,!يبدو لذيذاً أيضاً
+Dialogue: 0,0:00:49.34,0:00:51.17,Default,Otsuka,0000,0000,0000,,آ-آسف
+Dialogue: 0,0:00:53.66,0:00:56.48,Default,Otsuka,0000,0000,0000,,...ذلك الشخص الذي كان يطبخ
+Dialogue: 0,0:00:56.48,0:00:58.69,Default,Manager,0000,0000,0000,,موتو-كن هنا اليوم
+Dialogue: 0,0:00:58.69,0:00:59.86,Default,Otsuka,0000,0000,0000,,موتو-سان؟
+Dialogue: 0,0:00:59.86,0:01:00.99,Default,Manager,0000,0000,0000,,هذا هو
+Dialogue: 0,0:01:02.22,0:01:05.12,Italics,Otsuka,0000,0000,0000,,هل كان... هذا الشخص يعمل دوماً هنا؟
+Dialogue: 0,0:01:06.24,0:01:07.33,Default,Otsuka,0000,0000,0000,,!غربان؟
+Dialogue: 0,0:01:08.53,0:01:10.71,Default,Manager,0000,0000,0000,,أرى موتو-كن مشهوراً كعادته
+Dialogue: 0,0:01:11.49,0:01:14.29,Default,Manager,0000,0000,0000,,تتودّد له الحيوانات حقاً كما ترى
+Dialogue: 0,0:01:14.29,0:01:16.08,Default,Otsuka,0000,0000,0000,,...مقرف
+Dialogue: 0,0:01:16.08,0:01:17.76,Default,Otsuka,0000,0000,0000,,!لا شيء
+Dialogue: 0,0:01:17.76,0:01:20.11,Italics,Otsuka,0000,0000,0000,,...لحظة، أليس هو
+Dialogue: 0,0:01:20.90,0:01:22.60,Italics,Otsuka,0000,0000,0000,,!ذلك الرجل
+Dialogue: 0,0:01:23.03,0:01:26.57,Default,Manager,0000,0000,0000,,،أوتسكا-كن، إن كان لديك أي سؤال\Nفاسأل موتو-كن
+Dialogue: 0,0:01:26.57,0:01:28.53,Default,Manager,0000,0000,0000,,لديه قلب طيّب
+Dialogue: 0,0:01:29.06,0:01:31.94,Italics,Otsuka,0000,0000,0000,,إنه لطيف وطبّاخ ماهر إذاً
+Dialogue: 0,0:01:31.94,0:01:34.44,Italics,Otsuka,0000,0000,0000,,إذا كان وسيماً أيضاً، فقد ألعن السماء
+Dialogue: 0,0:01:34.44,0:01:38.36,Italics,Otsuka,0000,0000,0000,,حسناً، سأتظاهر أنّني ألقي السّلام\Nعليه فأنظر إلى وجهه
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H4F6665&\pos(212,194)}لذيذ
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H4F6665&\pos(212,194)}لذيذ
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H4F6665&\pos(335,194)}خبز
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H4F6665&\pos(335,194)}خبز
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H4F6665&\pos(212,233.333)}لذيذ
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H4F6665&\pos(212,233.333)}لذيذ
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H4F6665&\pos(335,233.333)}خبز
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H4F6665&\pos(335,233.333)}خبز
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H4A5252&\pos(212,273.333)}لذيذ
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H4A5252&\pos(212,273.333)}لذيذ
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H4A5252&\pos(335,273.333)}خبز
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H4A5252&\pos(335,273.333)}خبز
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H27342E&\pos(212,310)}لذيذ
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H27342E&\pos(212,310)}لذيذ
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H27342E&\pos(335,310)}خبز
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H27342E&\pos(335,310)}خبز
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H27342E&\pos(212,348.667)}لذيذ
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H27342E&\pos(212,348.667)}لذيذ
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H27342E&\pos(335,348.667)}خبز
+Dialogue: 0,0:01:38.36,0:01:44.70,Default,Bread sign,0000,0000,0000,,{\bord0\shad0\fs14\blur0.23\fnArial\c&H27342E&\pos(335,348.667)}خبز
+Dialogue: 0,0:01:39.32,0:01:44.19,Top,Otsuka,0000,0000,0000,,...مـ-مرحباً، أنا أوتسكا. ما زلتُ أتدرّب، لكن
+Dialogue: 0,0:01:45.20,0:01:46.79,Italics,Otsuka,0000,0000,0000,,—بالكاد أستطيع رؤية وجهه
+Dialogue: 0,0:01:49.46,0:01:52.75,Default,Otsuka,0000,0000,0000,,هل موتو-سان مخيف أم أنّني أتوهّم؟
+Dialogue: 0,0:01:53.45,0:01:55.52,Default,Otsuka,0000,0000,0000,,لحظة، ألا تعرفه يا آدم-سان؟
+Dialogue: 0,0:01:56.65,0:01:58.72,Default,Adam,0000,0000,0000,,موتو-سان شخص لطيف
+Dialogue: 0,0:01:59.09,0:02:01.18,Default,Mutou,0000,0000,0000,,حقاً؟ كيف بالضبط؟
+Dialogue: 0,0:02:01.89,0:02:02.30,Default,Sign,0000,0000,0000,,{\an8\shad0\bord2\fs12\blur0.35\3c&H6E7679&\pos(246,114.667)}!!معرض كرات الأرزّ
+Dialogue: 0,0:02:02.30,0:02:02.93,Default,Sign,0000,0000,0000,,{\an8\shad0\bord2\fs12\t(\fs26)\blur0.35\3c&H6E7679&\move(246,114.667,180,190)}!!معرض كرات الأرزّ
+Dialogue: 0,0:02:02.93,0:02:05.47,Default,Sign,0000,0000,0000,,{\an8\shad0\bord2\fs26\blur0.35\3c&H6E7679&\pos(178,191)}!!معرض كرات الأرزّ
+Dialogue: 0,0:02:03.34,0:02:05.47,Italics,Otsuka,0000,0000,0000,,...ما خطب هذا الشخص؟ يدّعي أنّه قدّيس
+Dialogue: 0,0:02:10.00,0:02:11.96,Italics,Otsuka,0000,0000,0000,,،لم أعد أكترث لوجهه
+Dialogue: 0,0:02:11.96,0:02:14.22,Italics,Otsuka,0000,0000,0000,,لكن أريد الاطّلاع على ما يطبخه
+Dialogue: 0,0:02:14.22,0:02:16.38,Italics,Otsuka,0000,0000,0000,,تمثيل دور "صديق كلّ الحيوانات" ذاك لا يتوقّف
+Dialogue: 0,0:02:16.38,0:02:17.90,Italics,Otsuka,0000,0000,0000,,...لكن معنى هذا أنّ لديّ فرصة
+Dialogue: 0,0:02:19.53,0:02:22.85,Italics,Otsuka,0000,0000,0000,,...لحظة، هل سكبَ هذه لي؟! مستحيل
+Dialogue: 0,0:02:25.99,0:02:28.10,Default,Otsuka,0000,0000,0000,,!إنه لذيذ! لذيذ جداً
+Dialogue: 0,0:02:29.27,0:02:30.54,Default,Otsuka,0000,0000,0000,,آ-آسف
+Dialogue: 0,0:02:30.55,0:02:33.19,Default,Otsuka,0000,0000,0000,,كان لذيذاً حقاً
+Dialogue: 0,0:02:33.19,0:02:38.75,Default,Otsuka,0000,0000,0000,,—ا-المعذرة... اسمي أوتسكا. أدركتُ للتو أنني لم
+Dialogue: 0,0:02:43.02,0:02:45.39,Default,Manager,0000,0000,0000,,لم يعد أوتسكا-كن يأتي إلى هنا
+Dialogue: 0,0:02:45.39,0:02:49.02,Default,Manager,0000,0000,0000,,لماذا يستقيل كلّ عمّالنا الجدد فوراً؟
+Dialogue: 0,0:02:49.22,0:02:52.39,Default,Manager,0000,0000,0000,,...ويبدو أنّ كمّية الأرزّ تنفد لدينا سريعاً مؤخراً
+Dialogue: 0,0:02:52.39,0:02:54.00,Italics,Adam,0000,0000,0000,,أعرف الحقيقة
+Dialogue: 0,0:02:55.06,0:02:58.69,Italics,Adam,0000,0000,0000,,...حقيقة ما يفعله موتو-سان
