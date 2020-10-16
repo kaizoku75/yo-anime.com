@@ -26,7 +26,7 @@ Style: Default,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:15.20,Main,,0,0,0,,للمزيد من الأنمي المترجم زورو موقعنا\Nwww.Yo-anime.com
+Dialogue: 0,0:00:00.00,0:00:15.20,Default,,0,0,0,,للمزيد من الأنمي المترجم زورو موقعنا\Nwww.Yo-anime.com
 Dialogue: 0,0:01:58.99,0:02:04.68,Default,,0,0,0,,.غولغو 13: الجنسية مجهولة\N.العمر مجهول. الإسم الحقيقي مجهول
 Dialogue: 0,0:02:56.28,0:02:59.98,Default,,0,0,0,,Golgo 13\N\Nغولغو 13
 Dialogue: 0,0:03:15.49,0:03:19.41,Default,,0,0,0,,{\pos(354,452)}Anas Zairi :ترجمة\Naz-fansub.blogspot.com
