@@ -30,7 +30,7 @@ Style: حقوق,ArmyChalk,28,&H00FFFFFF,&H000000FF,&H005859A6,&H001112FA,-1,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:12.20,Main,,0,0,0,,للمزيد من الأنمي المترجم زورو موقعنا\Nwww.Yo-anime.com
-Dialogue: 0,0:00:11.21,0:00:14.93,Default1,,0,0,0,,.المتهم .المتهم أركس شيلدرات إيلباياس
+Dialogue: 0,0:00:11.21,0:00:14.93,Default1,,0,0,0,,.المتهم أركس شيلدرات إيلباياس
 Dialogue: 0,0:00:15.72,0:00:19.76,Default1,,0,0,0,,... الأفعال التي ارتكبتها لا تغتفر
 Dialogue: 0,0:00:16.72,0:00:19.76,حقوق,,0,0,0,,{\pos(329.014,36.667)}www.yaz-online.com هذا العمل حصري لـ
 Dialogue: 0,0:00:19.76,0:00:22.14,Default1,,0,0,0,,!انتظر! لقد أخبرتك عدة مرات
