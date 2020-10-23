@@ -1,0 +1,57 @@
+﻿[Script Info]
+Title: العربية
+Original Script: cr_ar  [http://www.crunchyroll.com/user/cr_ar]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Adobe Arabic,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Adobe Arabic,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Italics,Adobe Arabic,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Flashback,Adobe Arabic,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Title,Adobe Arabic,28,&H001C191B,&H000000FF,&H0006B1EE,&H00A15946,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0030,1
+Style: sign,Adobe Arabic,20,&H001C191B,&H000000FF,&H00FFFFFF,&H00A15946,-1,0,0,0,100,100,0,0,1,2,0,7,0018,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:12.07,Main,Gojou,0000,0000,0000,,للمزيد من الأنمي المترجم زورو موقعنا\Nwww.Yo-anime.com
+Dialogue: 0,0:00:00.00,0:00:01.48,Title,Title,0000,0000,0000,,،{\c&HE3FFFF&}قطّ{\c}و {\c&HE3FFFF&}كلب{\c} مع\Nكلّ يوم هو يوم ممتع
+Dialogue: 0,0:00:00.31,0:00:01.48,Italics,Dog,0000,0000,0000,,.كلب وقطّ
+Dialogue: 0,0:00:01.48,0:00:05.02,Italics,Hide,0000,0000,0000,,.عندما ينام كلبي، يتأوّه ويتلوّى أحيانًا
+Dialogue: 0,0:00:05.02,0:00:07.52,Default,Hide,0000,0000,0000,,هل تراودك أحلام مخيفة؟
+Dialogue: 0,0:00:07.52,0:00:08.78,Italics,Hide,0000,0000,0000,,...لكن عندما أربّت عليه
+Dialogue: 0,0:00:09.19,0:00:13.06,Italics,Hide,0000,0000,0000,,أعتقد أنّ كلّ الأحلام تصبح \N.سعيدة مع بعض التّربيت
+Dialogue: 0,0:00:13.06,0:00:15.03,Default,Hide,0000,0000,0000,,...خرج لسانك من فمك
+Dialogue: 0,0:00:15.03,0:00:17.57,Italics,Hide,0000,0000,0000,,.بينما يدعك قطّي الغطاء في نومه
+Dialogue: 0,0:00:17.57,0:00:20.33,Italics,Hide,0000,0000,0000,,سمعت أنّه تصرّف تكتسبه القطط \N.في فترة رضاعتها
+Dialogue: 0,0:00:20.33,0:00:23.21,Default,Hide,0000,0000,0000,,هل تحلم بالوقت الّذي كنت فيه صغيرًا؟
+Dialogue: 0,0:00:24.21,0:00:26.14,Default,Hide,0000,0000,0000,,...خرجت عيناك من محجريهما
+Dialogue: 0,0:00:26.14,0:00:30.07,Italics,Hide/Text,0000,0000,0000,,،حتّى عندما يعيش طفولته ثانية\N.يظلّ وجهه منفعلاً في نومه
+Dialogue: 0,0:00:30.71,0:00:31.71,Italics,Cat,0000,0000,0000,,.كلب وقطّ
+Dialogue: 0,0:00:31.71,0:00:35.47,Italics,Hide,0000,0000,0000,,.إنّ كلبي شديد الحماس مذ كان جروًا
+Dialogue: 0,0:00:35.47,0:00:39.17,Default,Hide,0000,0000,0000,,!هيّا! أحضر الكرة
+Dialogue: 0,0:00:40.35,0:00:43.61,Default,Hide,0000,0000,0000,,!أحضر... الكرة
+Dialogue: 0,0:00:44.60,0:00:47.02,Default,Dog/Text,0000,0000,0000,,!ما كان ذلك؟! كان ممتعًا جدًّا
+Dialogue: 0,0:00:47.02,0:00:49.34,Default,Dog,0000,0000,0000,,!ارمني! ارمني
+Dialogue: 0,0:00:47.02,0:00:50.16,Default - Top,Hide/Text,0000,0000,0000,,.تعلّم لعبة "إحضار الكرة" بشكل خاطئ
+Dialogue: 0,0:00:49.34,0:00:50.94,Default,Hide,0000,0000,0000,,...ذلك ليس المقصود
+Dialogue: 0,0:00:51.42,0:00:54.70,Default,Hide,0000,0000,0000,,كانت شخصيّة قطّي مختلفة \N.تمامًا عندما كان هريرًا
+Dialogue: 0,0:00:54.70,0:00:56.70,Flashback,Cat/Text,0000,0000,0000,,...حفر وحفر
+Dialogue: 0,0:00:56.70,0:00:59.95,Flashback,Cat/Text,0000,0000,0000,,!مقرف! لديّ براز على قائمتي! كلاّ
+Dialogue: 0,0:00:59.95,0:01:03.20,Flashback,Cat/Text,0000,0000,0000,,!كلاّ! أنا مغطّى به! مقرف
+Dialogue: 0,0:01:04.53,0:01:06.21,Flashback,Hide,0000,0000,0000,,ما الخطب يا هريري؟
+Dialogue: 0,0:01:06.21,0:01:07.96,Flashback,Cat/Text,0000,0000,0000,,!ساعديني
+Dialogue: 0,0:01:07.96,0:01:11.02,Flashback,Hide/Text,0000,0000,0000,,!كيف انتهى بك المطاف هكذا؟
+Dialogue: 0,0:01:11.02,0:01:12.68,Default,Hide,0000,0000,0000,,.اعتدتَ أن تكون غاية في الظّرافة
+Dialogue: 0,0:01:12.68,0:01:14.97,Default,Cat/Text,0000,0000,0000,,.نظّفيها بسرعة واخرسي
